@@ -1,6 +1,6 @@
 import 'dart:async';
 
-import 'package:blocsample/src/blocs/validators.dart';
+import './validators.dart';
 // import 'package:rxdart/rxdart.dart';
 
 class Bloc with Validators {

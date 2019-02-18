@@ -1,4 +1,4 @@
-import 'package:blocsample/src/blocs/bloc.dart';
+import '../blocs/bloc.dart';
 import 'package:flutter/material.dart';
 
 class LoginScreen extends StatelessWidget {
