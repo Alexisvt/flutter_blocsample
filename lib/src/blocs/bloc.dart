@@ -21,4 +21,4 @@ class Bloc with Validators {
   }
 }
 
-final bloc = Bloc();
+// final bloc = Bloc();
